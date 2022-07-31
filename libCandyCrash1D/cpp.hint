@@ -1,0 +1,2 @@
+#define LIBCANDYCRASH1D_API __declspec(dllexport)
+#define LIBCANDYCRASH1D_API __declspec(dllimport)
